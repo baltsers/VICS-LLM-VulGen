@@ -6,7 +6,7 @@ Project artifact for:
 
 - Original artifact URL: <https://figshare.com/s/20d2cae2cda2142999cb>
 - Imported via `pubs2github` from the publications page
-- Downloader: `figshare` — Downloaded bulk ZIP via private-link ndownloader
+- Downloader: `figshare` — Downloaded 1 file(s) via API (article 32268891)
 
 
 This repository was created automatically. The contents under this
