@@ -13,8 +13,8 @@
 
 ## Contents
 
-The artifact contains 1 file(s), primarily Documentation.
+The artifact contains 1 file(s).
 
 ```
-└── Описание программы.pdf
+└── artifact_package_final.zip
 ```
