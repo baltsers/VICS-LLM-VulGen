@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Original artifact | <https://figshare.com/s/20d2cae2cda2142999cb> |
+| Original artifact | <https://zenodo.org/records/18226997> |
 | Imported from | the publications page |
 | Tool | `pubs2github` |
 
@@ -13,7 +13,7 @@
 
 ## Contents
 
-The artifact contains 65 file(s) including Python, Config files, Data files, and Documentation.
+The artifact contains 66 file(s) including Python, Config files, Data files, and Documentation.
 
 ```
 ├── RQ1
@@ -77,7 +77,7 @@ The artifact contains 65 file(s) including Python, Config files, Data files, and
 │   ├── readme.txt
 │   ├── VGX.zip
 │   … (3 more items)
-… (73 more items)
+… (74 more items)
 ```
 
 ---
